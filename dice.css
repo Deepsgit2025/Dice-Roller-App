@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+.box{
+    background-color: black;
+    height:500px ;
+    width: 400px;
+    margin-top: 100px;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#dicec{
+    height: 150px;
+    width: 200px;
+    border-radius: 15px;
+
+}
+#dice{
+    height: 50px;
+    width: 120px;
+    font-size: 20px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    margin-right: 120px;
+
+}
+#mylabel{
+    font-size: 55px;
+    color: white;
+    
+
+}
